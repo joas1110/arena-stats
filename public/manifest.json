@@ -1,0 +1,11 @@
+{
+  "name": "Arena Stats",
+  "short_name": "ArenaStats",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1220",
+  "theme_color": "#FF6600",
+  "icons": [
+    { "src": "/logo.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

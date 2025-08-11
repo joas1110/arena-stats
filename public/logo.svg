@@ -1,0 +1,6 @@
+<svg width="160" height="40" viewBox="0 0 160 40" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="40" rx="8" fill="#0B1220"/>
+  <circle cx="24" cy="20" r="12" stroke="#FF6600" stroke-width="3" fill="none"/>
+  <path d="M12 20h24" stroke="#FF6600" stroke-width="3"/>
+  <text x="48" y="26" font-family="Arial Black, Arial" font-size="18" fill="#ffffff">ARENA STATS</text>
+</svg>
